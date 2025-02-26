@@ -291,5 +291,5 @@ This `README.md` contains a list of 150 important exam-focused questions, organi
 This document covers the most important topics and questions from each chapter of the 10th Computer Science syllabus. These questions are tailored for exam preparation and should help you in effectively revising and practicing key concepts.
 
 ---
+# Good luck with your preparation  ``` <*/Sairah*>! ```
 
-Good luck with your preparation </Sairah>!
