@@ -11,7 +11,7 @@ This `README.md` contains a list of 150 important exam-focused questions, organi
     ```c
     #include <stdio.h>
     void main() {
-        printf("Name: Ali\nFname: Raza");
+        printf("Name: Sairah\nFname: Ali");
     }
     ```
 2. **Identify the error in the following code:**
